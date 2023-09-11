@@ -21,7 +21,7 @@ while True:
     height, width, _ = frame.shape 
 
 
-    # Extract Region of Interest
+    # Extract Region of Interest 
     roi = frame[300:720, 500:850]
 
 
